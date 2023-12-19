@@ -1,6 +1,4 @@
-package at.ac.htl.leonding.bhitm3.main;
-
-import at.ac.htl.leonding.bhitm3.Greeter;
+package at.ac.htl.leonding.bhitm3;
 
 /**
  * Demo App. Please delete me!
